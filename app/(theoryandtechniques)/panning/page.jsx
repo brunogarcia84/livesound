@@ -38,7 +38,7 @@ export default function Panning() {
 
         <div className="flex justify-center mb-5 mt-5">
           <Image
-            src="/stage-plot.jpg"
+            src="https://i.ibb.co/cnLGCR4/hpf-lpf.jpg"
             alt="Stage plot demonstration for panning"
             width={800}
             height={800}

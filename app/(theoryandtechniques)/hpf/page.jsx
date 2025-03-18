@@ -46,7 +46,7 @@ export default function HPF() {
         <div className="flex justify-center">
           <Image
             className="mt-5 mb-5"
-            src="/hpf-lpf.jpg"
+            src="https://i.ibb.co/cnLGCR4/hpf-lpf.jpg"
             alt="High Pass FIlter, Low Pass Filter, and Band Pass Demonstration"
             width={800}
             height={800}

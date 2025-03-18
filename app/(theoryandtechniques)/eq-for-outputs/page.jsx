@@ -43,7 +43,7 @@ export default function EqForOutputs() {
 
         <div className="flex justify-center mt-5 mb-5">
           <Image
-            src="/graphic-eq.jpg"
+            src="https://i.ibb.co/VcLqzHdQ/shelf-filter.png"
             alt="Graphic EQ"
             width={800}
             height={800}

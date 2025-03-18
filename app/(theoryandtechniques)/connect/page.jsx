@@ -23,7 +23,7 @@ export default function Connect() {
 
         <Image
           className="m-auto"
-          src="/stage-plot.jpg"
+          src="https://i.ibb.co/hxDSBjK2/stage-plot.jpg"
           alt="Stage Plot Example"
           width={800}
           height={800}
@@ -44,7 +44,7 @@ export default function Connect() {
 
         <Image
           className="m-auto"
-          src="/input-list.jpg"
+          src="https://i.ibb.co/Z1zj6Lks/input-list.jpg"
           alt="Input List Example"
           width={800}
           height={800}
@@ -93,7 +93,7 @@ export default function Connect() {
           height="415"
           src="https://www.youtube.com/embed/lvhckG_OZCM?si=LyQtnQvja1WYatsf"
           title="YouTube video player"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen
