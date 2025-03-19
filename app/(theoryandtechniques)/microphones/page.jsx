@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Microphones() {
@@ -54,12 +55,13 @@ export default function Microphones() {
           </li>
         </ul>
 
-        <p>
-          A more detailed list will be provided in the near future. However, the
-          most important concept now is to understand whether you use a dynamic
-          or a condenser mic and, of course, experimenting with placement and
-          test the sound.
-        </p>
+        <button className="border-2 border-white hover:bg-gray-500 rounded-2xl p-2 ml-5 mt-5 cursor-pointer transition-all duration-300">
+          <Link href="/microphones/detailed-list">
+            Detailed List of Microphones
+          </Link>
+        </button>
+
+        <hr className="mt-5 mb-5" />
 
         <h2>Source of the Information:</h2>
 

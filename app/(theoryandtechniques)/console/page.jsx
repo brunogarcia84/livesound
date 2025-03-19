@@ -33,7 +33,7 @@ export default function Console() {
 
         <p>
           When talking about auxes, ideally you should have one for each monitor
-          on stage. If the musician is using an In Ear Monitor, he will require
+          on stage. If the musician is using an In Ear Monitor, it will require
           a stereo aux.
         </p>
 
@@ -50,7 +50,7 @@ export default function Console() {
           number of auxes will rise as well.
         </p>
 
-        <p>Another points to consider:</p>
+        <p>Other points to consider:</p>
 
         <ul>
           <li>
@@ -83,7 +83,7 @@ export default function Console() {
         <ul>
           <li>A pair of headphones</li>
           <li>A talkback mic</li>
-          <li>Tapes: Gaffer, Label tapes, Electrical tape</li>
+          <li>Tapes: Gaffer, Label, and Electrical tapes</li>
           <li>A Marker Pen</li>
           <li>A pair of gloves</li>
           <li>A torch</li>
@@ -93,6 +93,8 @@ export default function Console() {
             the speakers
           </li>
         </ul>
+
+        <hr className="mt-5 mb-5" />
 
         <h2>Source of the Information:</h2>
 

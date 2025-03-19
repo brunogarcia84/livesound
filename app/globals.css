@@ -53,13 +53,19 @@ p,
 span,
 ul,
 li,
-a {
+a,
+small {
   font-family: var(--font-montserrat);
   line-height: 2rem;
 }
 
 p {
   margin-bottom: 15px;
+}
+
+small {
+  font-family: var(--font-montserrat);
+  color: orange;
 }
 
 .separation {

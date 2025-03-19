@@ -23,7 +23,7 @@ export default function Connect() {
 
         <Image
           className="m-auto"
-          src="https://i.ibb.co/hxDSBjK2/stage-plot.jpg"
+          src="/stage-plot.jpg"
           alt="Stage Plot Example"
           width={800}
           height={800}
@@ -44,7 +44,7 @@ export default function Connect() {
 
         <Image
           className="m-auto"
-          src="https://i.ibb.co/Z1zj6Lks/input-list.jpg"
+          src="/input-list.jpg"
           alt="Input List Example"
           width={800}
           height={800}
@@ -78,12 +78,50 @@ export default function Connect() {
           minimize sound reflections.
         </p>
 
+        <div className="flex justify-evenly separation">
+          <Image
+            className="m-auto"
+            src="/speakers-position-1.jpg"
+            alt="Speakers Position 1 Example"
+            width={600}
+            height={600}
+          />
+
+          <Image
+            className="m-auto"
+            src="/speakers-position-2.jpeg"
+            alt="Speakers Position 2 Example"
+            width={400}
+            height={200}
+          />
+        </div>
+
         <p>
           When positioning floor monitors, make sure they are pointing towards
           the head of the musicians. The sound of the monitors must not be
           directed to the audience, and all the microphones must be placed with
           the back to the monitors to avoid feedback.
         </p>
+
+        <div className="flex justify-evenly separation">
+          <Image
+            className="m-auto"
+            src="/floor-monitors-1.jpg"
+            alt="Floor Monitors Example 1"
+            width={600}
+            height={800}
+          />
+
+          <Image
+            className="m-auto"
+            src="/floor-monitors-2.jpg"
+            alt="Floor Monitors Example 2"
+            width={800}
+            height={800}
+          />
+        </div>
+
+        <hr className="mt-5 mb-5" />
 
         <h2>Source of the Information:</h2>
 

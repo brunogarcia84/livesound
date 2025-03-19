@@ -17,8 +17,7 @@ export default function Introduction() {
         <h2>A good start for a live mix:</h2>
         <ul>
           <li>
-            Are the musicians and musical instruments are delivering a good
-            sound?
+            Are the musicians and musical instruments delivering a good sound?
           </li>
 
           <li>
@@ -54,9 +53,9 @@ export default function Introduction() {
         <h2>Goals when mixing live music</h2>
 
         <p>
-          The first people a live sound engineers should please have to be the
+          The first people a live sound engineer should please have to be the
           performers. When they are comfortable with their sounds, they will
-          create a better sound. As a next step, the sound engineer will
+          create a better performance. As a next step, the sound engineer will
           consider the audience and the event organizers. Here are a series of
           questions that will help you determine the style of mix to apply for
           the event:
@@ -84,6 +83,8 @@ export default function Introduction() {
 
           <li>Should we make sure the vocals are always clearly heard?</li>
         </ul>
+
+        <hr className="mt-5 mb-5" />
 
         <h2>Source of the information:</h2>
 
