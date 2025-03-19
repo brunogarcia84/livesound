@@ -13,7 +13,10 @@ export default function Inputs() {
 
         <p>
           Phantom Power is where the mixing console sends power back to the
-          microphone or D.I. Box.
+          microphone or D.I. Box.{" "}
+          <Link href="/inputs/phantom-power" className="text-indigo-600">
+            Read more
+          </Link>
         </p>
 
         <span>
@@ -43,6 +46,14 @@ export default function Inputs() {
           And, a mixer's nominal level is going to be higher than most of all
           microphones and musical instruments.
         </span>
+
+        <p>
+          Read more about Dynamic Range, Headroom, and Nominal Level{" "}
+          <Link href="/inputs/nominal-level" className="text-indigo-600">
+            here
+          </Link>
+          .
+        </p>
 
         <h2>The gain knob</h2>
 
@@ -90,6 +101,15 @@ export default function Inputs() {
           the other. In the end, the two combined sounds may not sound so good.
         </p>
 
+        <p>
+          Read more about Phase Inversion{" "}
+          <Link href="/inputs/phase-inversion" className="text-indigo-600">
+            here
+          </Link>
+          .
+        </p>
+
+        <hr className="mt-4 mb-4" />
         <h2>Source of the Information:</h2>
 
         <iframe
