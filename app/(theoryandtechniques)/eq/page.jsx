@@ -60,7 +60,7 @@ export default function Eq() {
         <div className="flex justify-center">
           <Image
             className="mt-5 mb-5"
-            src="https://i.ibb.co/VcLqzHdQ/shelf-filter.png"
+            src="/shelf-filter.png"
             alt="Shelf Filters Demonstration"
             width={800}
             height={800}
@@ -80,7 +80,7 @@ export default function Eq() {
         <div className="flex justify-center">
           <Image
             className="mt-5 mb-5"
-            src="https://i.ibb.co/gFznpkyy/bell-filter.png"
+            src="/bell-filter.png"
             alt="Bell Filters Demonstration"
             width={800}
             height={800}

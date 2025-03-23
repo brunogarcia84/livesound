@@ -11,10 +11,19 @@ export default function EqForVocals() {
       <div className="m-auto max-w-10/12 p-2.5">
         <p>
           For live performances, most singers should be using a dynamic cardioid
-          microphone.
+          <Link href="/microphones">
+            <small>microphone</small>
+          </Link>
+          .
         </p>
 
-        <p>Always start by applying HPF.</p>
+        <p>
+          Always start by applying{" "}
+          <Link href="/dibox">
+            <small>HPF</small>
+          </Link>
+          .
+        </p>
 
         <ul>
           <li>Male Vocals: HPF about 120Hz</li>

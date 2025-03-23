@@ -28,7 +28,13 @@ export default function EqForAcoustics() {
         <h2>Violin</h2>
 
         <ul>
-          <li>Apply HPF and LPF.</li>
+          <li>
+            Apply{" "}
+            <Link href="/hpf">
+              <small>High-Pass</small>
+            </Link>{" "}
+            and Low-Pass Filters.
+          </li>
           <li>Find the frequencies bringing feedback and eliminate it.</li>
           <li>
             Play around the mid band for shaping the sound. Less boxy around

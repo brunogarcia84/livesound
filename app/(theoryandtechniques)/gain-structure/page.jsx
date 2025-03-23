@@ -38,7 +38,11 @@ export default function GainStructure() {
         <p>
           When using an analog system, 0dB marks the position of nominal level,
           that is the most suitable level that the mixer is designed to handle.
-          The amount of gain above this threshold point is considered headroom.
+          The amount of gain above this threshold point is considered{" "}
+          <Link href="/inputs/nominal-level">
+            <small>headroom</small>
+          </Link>
+          .
         </p>
 
         <p>

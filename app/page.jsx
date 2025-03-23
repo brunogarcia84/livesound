@@ -143,13 +143,19 @@ export default function Home() {
 
           <li>
             <Link href="/delay" className="hover:text-gray-500">
-              Delay
+              Delay (To be done)
             </Link>
           </li>
 
           <li>
             <Link href="/soundcheck" className="hover:text-gray-500">
               Soundcheck
+            </Link>
+          </li>
+
+          <li>
+            <Link href="/ring-the-pa" className="hover:text-gray-500">
+              Ringing the P.A. (To be done)
             </Link>
           </li>
         </ul>
@@ -164,6 +170,12 @@ export default function Home() {
           <li>
             <Link href="/dibox" className="hover:text-gray-500">
               D.I. Box
+            </Link>
+          </li>
+
+          <li>
+            <Link href="/balancedAndUnbalanced" className="hover:text-gray-500">
+              Balanced and Unbalanced Cables
             </Link>
           </li>
         </ul>

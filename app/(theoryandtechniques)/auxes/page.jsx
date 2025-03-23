@@ -17,6 +17,10 @@ export default function Auxes() {
           all have a variable level control for each input channel.
         </p>
 
+        <button className="border-2 border-white hover:bg-gray-500 rounded-2xl p-2 mb-5 mt-5 cursor-pointer transition-all duration-300">
+          <Link href="/auxes/pre-post">Pre/Post Fader</Link>
+        </button>
+
         <p>
           Generally speaking, mono auxes are used to make monitor mixes for
           stage monitors. Pre fader means that the volume faders won't affect

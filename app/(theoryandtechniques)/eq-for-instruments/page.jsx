@@ -16,7 +16,13 @@ export default function EqForInstruments() {
           results for the rest of the band.
         </p>
 
-        <p>We are focusing on the direct sound of the bass using a D.I. Box.</p>
+        <p>
+          We are focusing on the direct sound of the bass using a{" "}
+          <Link href="/dibox">
+            <small>D.I. Box</small>
+          </Link>
+          .
+        </p>
 
         <span>
           Don't be tempted to boost the low frequency on the EQ. Listen to the
@@ -51,7 +57,13 @@ export default function EqForInstruments() {
 
         <h2>Keyboards</h2>
 
-        <p>We normally expect to use a stereo D.I. Box.</p>
+        <p>
+          We normally expect to use a stereo{" "}
+          <Link href="/dibox">
+            <small>D.I. Box</small>
+          </Link>
+          .
+        </p>
 
         <ul>
           <li>

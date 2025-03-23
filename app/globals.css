@@ -81,8 +81,8 @@ li {
 }
 
 span {
-  font-size: 2rem;
-  color: red;
+  font-size: 1.5rem;
+  color: orange;
   display: inline-block;
   margin: 20px 0;
 }
