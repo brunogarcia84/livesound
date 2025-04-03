@@ -168,6 +168,12 @@ export default function Home() {
       <div className="separation flex flex-wrap justify-evenly">
         <ul>
           <li>
+            <Link href="/checklist" className="hover:text-gray-500">
+              Live Sound Checklist
+            </Link>
+          </li>
+
+          <li>
             <Link href="/dibox" className="hover:text-gray-500">
               D.I. Box
             </Link>

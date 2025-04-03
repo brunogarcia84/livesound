@@ -94,6 +94,33 @@ export default function Console() {
           </li>
         </ul>
 
+        <h4>Tools to Buy</h4>
+
+        <ul>
+          <li>Cables (XLR, TS, TRS, RCA, and others)</li>
+          <li>Direct Boxes (Passive and Active)</li>
+          <li>Power Conditioners</li>
+          <li>Extension Cords and Power Strips</li>
+          <li>Handcart to carry stuff</li>
+          <li>Batteries</li>
+          <li>Gaff Tape</li>
+          <li>
+            Straps, Chains, and rigging to secure speakers and other equipment
+          </li>
+          <li>Multimeter</li>
+          <li>Allen Keys</li>
+          <li>Meter Tape</li>
+          <li>Leather Gloves with an Insulated Liner</li>
+          <li>Soldering Iron, paste, and lead</li>
+          <li>Wire Stripper</li>
+          <li>Voltage Tester</li>
+          <li>Cable Ties</li>
+          <li>Cable Cutters</li>
+          <li>Plier</li>
+          <li>Screwdrivers</li>
+          <li>Hammer</li>
+        </ul>
+
         <hr className="mt-5 mb-5" />
 
         <h2>Source of the Information:</h2>

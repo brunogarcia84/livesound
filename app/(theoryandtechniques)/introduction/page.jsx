@@ -9,15 +9,15 @@ export default function Introduction() {
       <h1 className="text-center">Introduction</h1>
       <div className="m-auto max-w-10/12 p-2.5">
         <p>
-          First things first, it's important to understand the meaning of the
-          term P.A. It means Public Address because it's the way musicians and
-          sound engineers address the sound to the crowd.
+          P.A. stands for Public Address. That's the way we send the sound from
+          the stage to the audience.
         </p>
 
         <h2>A good start for a live mix:</h2>
         <ul>
           <li>
             Are the musicians and musical instruments delivering a good sound?
+            Is everything in tune?
           </li>
 
           <li>
@@ -33,6 +33,11 @@ export default function Introduction() {
           <li>
             Do the amplifiers have the power to provide a good and clear sound
             at the required sound pressure level?
+          </li>
+
+          <li>
+            By the way, did you check the sound pressure level requirements for
+            the place? Do you have any restrictions?
           </li>
 
           <li>
