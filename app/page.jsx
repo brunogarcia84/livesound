@@ -186,6 +186,20 @@ export default function Home() {
           </li>
         </ul>
       </div>
+
+      <div className="separation">
+        <h2 className="text-center">Sound Design</h2>
+      </div>
+
+      <div className="separation flex flex-wrap justify-evenly">
+        <ul>
+          <li>
+            <Link href="/foundations" className="hover:text-gray-500">
+              Foundations
+            </Link>
+          </li>
+        </ul>
+      </div>
     </>
   );
 }
